@@ -3,10 +3,10 @@ dataset:
   - computer-vision
   - images
   manifest:
-    amount: 3
+    amount: 2
     files: MANIFEST.yaml
     size: 21 Bytes
     store: s3h://mlgit
   mutability: strict
   name: dataset-ex
-  version: 3
+  version: 4
